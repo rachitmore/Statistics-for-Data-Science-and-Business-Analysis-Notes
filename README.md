@@ -23,7 +23,7 @@ This repository contains comprehensive notes on Statistics for Data Science and 
 - **Section 17: Practical Example: Regression Analysis**
 
 ## Installation
-Download the notes or enroll in the course to access the materials.
+Download the notes or enroll in the course using this [link](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/?couponCode=ACCAGE0923).
 
 ## Usage
 These notes are intended for educational purposes, to assist learners in understanding and applying statistical concepts in data science and business analysis.
