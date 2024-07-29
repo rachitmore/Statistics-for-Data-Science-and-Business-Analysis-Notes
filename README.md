@@ -39,8 +39,8 @@ These notes are intended for educational purposes.
 This project is licensed under the Apache-2.0 License.
 
 ## Contact Information
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/rachit-more-30a63418a)
-- Email: [your-email@gmail.com](mailto:rachitmore3@gmail.com)
+- LinkedIn: [Rachit More](www.linkedin.com/in/rachit-more-30a63418a)
+- Email: [rachitmore3@gmail.com](mailto:rachitmore3@gmail.com)
 
 ## Acknowledgments
 - Instructor: 365 Careers
